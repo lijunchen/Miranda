@@ -1,0 +1,6 @@
+*.o
+*.x
+mira
+script.m
+miralib/menudriver
+miralib/preludx
